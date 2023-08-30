@@ -32,7 +32,7 @@ To successfully complete this project, you should:
 
 ## Video Walkthrough
 
-[Watch the video walkthrough here](#) (Link to be added)
+[(https://www.loom.com/share/5b2610afbaf14f8da60bebcec58d6243)](#) (Link to be added)
 
 In the video, I will cover:
 - How to build a circum circuit using the JK ZK Snark module.
